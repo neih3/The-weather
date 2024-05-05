@@ -1,0 +1,4 @@
+.focus-custom:focus {
+  outline: red !important;
+  border: 1px solid transparent;
+}
