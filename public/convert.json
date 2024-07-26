@@ -1,0 +1,1117 @@
+{
+"Sheet1":[
+ {
+  "name\tlon\tlat\tcountry": "Abidjan\t-4.00167\t5.35444\tIvory Coast"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Abu Dhabi\t54.39696\t24.45118\tUnited Arab Emirates"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Abuja\t7.49508\t9.05785\tNigeria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Accra\t-0.1969\t5.55602\tGhana"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Addis Ababa\t38.74689\t9.02497\tEthiopia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ahmedabad\t72.58727\t23.02579\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Aleppo\t37.16117\t36.20124\tSyria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Alexandria\t29.91582\t31.20176\tEgypt"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Algiers\t3.08746\t36.73225\tAlgeria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Almaty\t76.92861\t43.25667\tKazakhstan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Amman\t35.94503\t31.95522\tJordan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Amsterdam\t4.88969\t52.37403\tNetherlands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Anchorage\t-149.90028\t61.21806\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Andorra la Vella\t1.52109\t42.50779\tAndorra"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ankara\t32.85427\t39.91987\tTurkey"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Antananarivo\t47.53613\t-18.91368\tMadagascar"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Apia\t-171.76666\t-13.83333\tSamoa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Arnold\t-120.351935\t38.255366\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ashgabat\t58.38333\t37.95\tTurkmenistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Asmara\t38.93184\t15.33805\tEritrea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Asuncion\t-57.647\t-25.28646\tParaguay"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Athens\t23.72784\t37.98376\tGreece"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Auckland\t174.76349\t-36.84853\tNew Zealand"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Avarua\t-159.77545\t-21.2075\tCook Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Baghdad\t44.40088\t33.34058\tIraq"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Baku\t49.89201\t40.37767\tAzerbaijan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bamako\t-8\t12.65\tMali"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Banda Aceh\t95.33333\t5.54167\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bandar Seri Begawan\t114.94006\t4.89035\tBrunei"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bandung\t107.60694\t-6.92222\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bangkok\t100.50144\t13.75398\tThailand"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bangui\t18.55496\t4.36122\tCentral African Republic"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Banjul\t-16.57803\t13.45274\tGambia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Barcelona\t2.15899\t41.38879\tSpain"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Barranquilla\t-74.78132\t10.96854\tColombia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Basrah\t47.7804\t30.50852\tIraq"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Basse-Terre\t-61.73214\t15.99714\tGuadeloupe"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Basseterre\t-62.72499\t17.2955\tSaint Kitts and Nevis"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Beijing\t116.39723\t39.9075\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Beirut\t35.50157\t33.89332\tLebanon"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bekasi\t106.9896\t-6.2349\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Belem\t-48.50444\t-1.45583\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Belgrade\t20.46513\t44.80401\tSerbia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Belmopan\t-88.76667\t17.25\tBelize"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Belo Horizonte\t-43.93778\t-19.92083\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bengaluru\t77.59369\t12.97194\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Berlin\t13.41053\t52.52437\tGermany"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bern\t7.44744\t46.94809\tSwitzerland"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bishkek\t74.59\t42.87\tKyrgyzstan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bissau\t-15.59767\t11.86357\tGuinea-Bissau"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bogota\t-74.08175\t4.60971\tColombia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Brasilia\t-47.92972\t-15.77972\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bratislava\t17.10674\t48.14816\tSlovakia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Brazzaville\t15.28318\t-4.26613\tRepublic of the Congo"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bridgetown\t-59.62021\t13.10732\tBarbados"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Brisbane\t153.02809\t-27.46794\tAustralia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Brussels\t4.34878\t50.85045\tBelgium"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bucharest\t26.10626\t44.43225\tRomania"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Budapest\t19.04045\t47.49835\tHungary"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Buenos Aires\t-58.37723\t-34.61315\tArgentina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bujumbura\t29.36142\t-3.38193\tBurundi"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Bursa\t29.06013\t40.19559\tTurkey"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Busan\t129.03004\t35.10168\tSouth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Cairo\t31.24967\t30.06263\tEgypt"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Cali\t-76.5225\t3.43722\tColombia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Caloocan\t120.96788\t14.64953\tPhilippines"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Camayenne\t-13.68778\t9.535\tGuinea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Canberra\t149.12807\t-35.28346\tAustralia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Cape Town\t18.42322\t-33.92584\tSouth Africa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Caracas\t-66.87919\t10.48801\tVenezuela"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Casablanca\t-7.61138\t33.58831\tMorocco"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Castries\t-61.00614\t13.9957\tSaint Lucia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Cayenne\t-52.33333\t4.93333\tFrench Guiana"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Charlotte Amalie\t-64.9307\t18.3419\tU.S. Virgin Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Chengdu\t104.06667\t30.66667\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Chennai\t80.27847\t13.08784\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Chicago\t-87.65005\t41.85003\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Chisinau\t28.8575\t47.00556\tMoldova"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Chittagong\t91.83168\t22.3384\tBangladesh"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Chongqing\t106.55278\t29.56278\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Colombo\t79.84868\t6.93548\tSri Lanka"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Conakry\t-13.67729\t9.53795\tGuinea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Copenhagen\t12.56553\t55.67594\tDenmark"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Cordoba\t-64.18105\t-31.4135\tArgentina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Curitiba\t-49.27306\t-25.42778\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Daegu\t128.59111\t35.87028\tSouth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Daejeon\t127.38493\t36.34913\tSouth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dakar\t-17.44406\t14.6937\tSenegal"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dallas\t-96.80667\t32.78306\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Damascus\t36.29128\t33.5102\tSyria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dar es Salaam\t39.26951\t-6.82349\tTanzania"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Delhi\t77.23149\t28.65195\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Denver\t-104.9847\t39.73915\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dhaka\t90.40744\t23.7104\tBangladesh"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dili\t125.57361\t-8.55861\tTimor Leste"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Djibouti\t43.14503\t11.58901\tDjibouti"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dodoma\t35.73947\t-6.17221\tTanzania"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Doha\t51.53096\t25.28545\tQatar"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dongguan\t113.74866\t23.01797\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Douala\t9.70428\t4.04827\tCameroon"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Douglas\t-4.48333\t54.15\tIsle of Man"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dubai\t55.30927\t25.07725\tUnited Arab Emirates"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dublin\t-6.24889\t53.33306\tIreland"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Durban\t31.0292\t-29.8579\tSouth Africa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Dushanbe\t68.77905\t38.53575\tTajikistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Faisalabad\t73.08969\t31.41554\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Fort-de-France\t-61.07418\t14.60365\tMartinique"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Fortaleza\t-38.54306\t-3.71722\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Freetown\t-13.2356\t8.48714\tSierra Leone"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Fukuoka\t130.41667\t33.6\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Funafuti\t179.19417\t-8.52425\tTuvalu"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Gaborone\t25.90859\t-24.65451\tBotswana"
+ },
+ {
+  "name\tlon\tlat\tcountry": "George Town\t-81.37436\t19.2866\tMalaysia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Georgetown\t-58.15527\t6.80448\tGuyana"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Gibraltar\t-5.35257\t36.14474\tGibraltar"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Gitega\t29.92463\t-3.42708\tBurundi"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Giza\t31.20861\t30.00944\tEgypt"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Guadalajara\t-103.39182\t20.66682\tMexico"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Guangzhou\t113.25\t23.11667\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Guatemala City\t-90.51327\t14.64072\tGuatemala"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Guayaquil\t-79.88621\t-2.19616\tEcuador"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Gujranwala\t74.18705\t32.15567\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Gustavia\t-62.84978\t17.89618\tSaint Barthelemy"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Gwangju\t126.91556\t35.15472\tSouth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Hamburg\t9.99302\t53.55073\tGermany"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Hanoi\t105.84117\t21.0245\tVietnam"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Harare\t31.05337\t-17.82772\tZimbabwe"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Havana\t-82.38304\t23.13302\tCuba"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Helsinki\t24.93545\t60.16952\tFinland"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ho Chi Minh City\t106.62965\t10.82302\tVietnam"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Hong Kong\t114.17469\t22.27832\tHong Kong"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Honiara\t159.95\t-9.43333\tSolomon Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Honolulu\t-157.85833\t21.30694\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Houston\t-95.36327\t29.76328\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Hyderabad\t78.45636\t17.38405\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Hyderabad\t68.37366\t25.39242\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ibadan\t3.90591\t7.37756\tNigeria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Incheon\t126.70515\t37.45646\tSouth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Isfahan\t51.67462\t32.65246\tIran"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Islamabad\t73.04329\t33.72148\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Istanbul\t28.94966\t41.01384\tTurkey"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Izmir\t27.13838\t38.41273\tTurkey"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Jaipur\t75.78781\t26.91962\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Jakarta\t106.84513\t-6.21462\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Jeddah\t39.18624\t21.49012\tSaudi Arabia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Jerusalem\t35.21633\t31.76904\tIsrael"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Johannesburg\t28.04363\t-26.20227\tSouth Africa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Juarez\t-106.46084\t31.72024\tMexico"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Juba\t31.58247\t4.85165\tSouth Sudan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kabul\t69.17233\t34.52813\tAfghanistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kaduna\t7.43879\t10.52641\tNigeria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kampala\t32.58219\t0.31628\tUganda"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kano\t8.51672\t12.00012\tNigeria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kanpur\t80.34975\t26.46523\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kaohsiung\t120.31333\t22.61626\tTaiwan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Karachi\t67.0104\t24.8608\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Karaj\t50.99155\t35.83266\tIran"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kathmandu\t85.3206\t27.70169\tNepal"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kawasaki\t139.71722\t35.52056\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kharkiv\t36.25272\t49.98081\tUkraine"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Khartoum\t32.53241\t15.55177\tSudan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Khulna\t89.56439\t22.80979\tBangladesh"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kigali\t30.05885\t-1.94995\tRwanda"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kingsburg\t-119.554\t36.5138\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kingston\t-76.79358\t17.99702\tJamaica"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kingstown\t-61.22742\t13.15527\tSaint Vincent and the Grenadines"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kinshasa\t15.31357\t-4.32758\tDemocratic Republic of the Congo"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kobe\t135.183\t34.6913\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kolkata\t88.36304\t22.56263\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kota Bharu\t102.24333\t6.12361\tMalaysia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kowloon\t114.18333\t22.31667\tHong Kong"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kuala Lumpur\t101.68653\t3.1412\tMalaysia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kumasi\t-1.62443\t6.68848\tGhana"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kuwait\t47.97833\t29.36972\tKuwait"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kyiv\t30.5238\t50.45466\tUkraine"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Kyoto\t135.75385\t35.02107\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "La Paz\t-68.15\t-16.5\tBolivia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lagos\t3.39467\t6.45407\tNigeria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lahore\t74.35071\t31.558\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Libreville\t9.45356\t0.39241\tGabon"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lilongwe\t33.78725\t-13.96692\tMalawi"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lima\t-77.02824\t-12.04318\tPeru"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lisbon\t-9.13333\t38.71667\tPortugal"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ljubljana\t14.50513\t46.05108\tSlovenia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lome\t1.22154\t6.12874\tTogo"
+ },
+ {
+  "name\tlon\tlat\tcountry": "London\t-0.12574\t51.50853\tUnited Kingdom"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Los Angeles\t-118.24368\t34.05223\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Luanda\t13.23432\t-8.83682\tAngola"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lubumbashi\t27.47938\t-11.66089\tDemocratic Republic of the Congo"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Lusaka\t28.28713\t-15.40669\tZambia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Luxembourg\t6.13\t49.61167\tLuxembourg"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Macau\t113.54611\t22.20056\tMacao"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Madrid\t-3.70256\t40.4165\tSpain"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Majuro\t171.38027\t7.08971\tMarshall Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Makassar\t119.43194\t-5.14861\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Malabo\t8.78166\t3.75578\tEquatorial Guinea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Male\t73.50916\t4.17521\tMaldives"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mamoudzou\t45.22878\t-12.78234\tMayotte"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Managua\t-86.2504\t12.13282\tNicaragua"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Manama\t50.58565\t26.22787\tBahrain"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Manaus\t-60.025\t-3.10194\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Manila\t120.9822\t14.6042\tPhilippines"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Maputo\t32.58322\t-25.96553\tMozambique"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Maracaibo\t-71.61245\t10.66663\tVenezuela"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Maracay\t-67.59113\t10.23535\tVenezuela"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mariehamn\t19.93481\t60.09726\tAland Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Marigot\t-63.08302\t18.06819\tSaint Martin"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Maseru\t27.48333\t-29.31667\tLesotho"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mashhad\t59.56796\t36.31559\tIran"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mbabane\t31.13333\t-26.31667\tEswatini"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mecca\t39.82563\t21.42664\tSaudi Arabia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Medan\t98.66667\t3.58333\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Medellin\t-75.56359\t6.25184\tColombia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Medina\t39.61417\t24.46861\tSaudi Arabia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Melbourne\t144.96332\t-37.814\tAustralia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mexico City\t-99.12766\t19.42847\tMexico"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Miami\t-80.19366\t25.77427\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Minsk\t27.56667\t53.9\tBelarus"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mogadishu\t45.34375\t2.03711\tSomalia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Monaco\t7.41667\t43.73333\tMonaco"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Monrovia\t-10.7969\t6.30054\tLiberia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Montevideo\t-56.18816\t-34.90328\tUruguay"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Montreal\t-73.58781\t45.50884\tCanada"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Moroni\t43.25506\t-11.70216\tComoros"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Moscow\t37.61556\t55.75222\tRussia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mosul\t43.11889\t36.335\tIraq"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Multan\t71.47824\t30.19679\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Mumbai\t72.88261\t19.07283\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Muscat\t58.40778\t23.58413\tOman"
+ },
+ {
+  "name\tlon\tlat\tcountry": "N'Djamena\t15.0444\t12.10672\tChad"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nagoya\t136.90641\t35.18147\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nairobi\t36.81667\t-1.28333\tKenya"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nanchong\t106.08473\t30.79508\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nanjing\t118.77778\t32.06167\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nassau\t-77.34306\t25.05823\tBahamas"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nay Pyi Taw\t96.12972\t19.745\tMyanmar"
+ },
+ {
+  "name\tlon\tlat\tcountry": "New York\t-74.00597\t40.71427\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Niamey\t2.1098\t13.51366\tNiger"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nicosia\t33.3642\t35.17531\tCyprus"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nouakchott\t-15.9785\t18.08581\tMauritania"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Noumea\t166.44884\t-22.27407\tNew Caledonia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Novosibirsk\t82.9346\t55.0415\tRussia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nuku'alofa\t-175.2018\t-21.13938\tTonga"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nur-Sultan\t71.44598\t51.1801\tKazakhstan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Nuuk\t-51.72157\t64.18347\tGreenland"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Oranjestad\t-70.02703\t12.52398\tAruba"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Osaka\t135.50218\t34.69374\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Oslo\t10.74609\t59.91273\tNorway"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ottawa\t-75.69812\t45.41117\tCanada"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ouagadougou\t-1.53388\t12.36566\tBurkina Faso"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Pago Pago\t-170.7025\t-14.27806\tAmerican Samoa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Palembang\t104.7458\t-2.91673\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Palo Alto\t-122.14302\t37.44188\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Panama\t-79.51973\t8.9936\tPanama"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Papeete\t-149.5665\t-17.53733\tFrench Polynesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Paramaribo\t-55.16682\t5.86638\tSuriname"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Paris\t2.3488\t48.85341\tFrance"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Perth\t115.8614\t-31.95224\tAustralia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Philadelphia\t-75.16379\t39.95233\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Phnom Penh\t104.91601\t11.56245\tCambodia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Phoenix\t-112.07404\t33.44838\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Podgorica\t19.26361\t42.44111\tMontenegro"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Port Louis\t57.49889\t-20.16194\tMauritius"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Port Moresby\t147.15089\t-9.47723\tPapua New Guinea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Port of Spain\t-61.51889\t10.66668\tTrinidad and Tobago"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Port-Vila\t168.31366\t-17.73648\tVanuatu"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Port-au-Prince\t-72.33881\t18.54349\tHaiti"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Porto Alegre\t-51.23019\t-30.03283\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Porto-Novo\t2.60359\t6.49646\tBenin"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Prague\t14.42076\t50.08804\tCzechia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Praia\t-23.51254\t14.93152\tCabo Verde"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Pretoria\t28.18783\t-25.74486\tSouth Africa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Pristina\t21.16688\t42.67272\tKosovo"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Puebla\t-98.20346\t19.03793\tMexico"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Pune\t73.85535\t18.51957\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Pyongyang\t125.75432\t39.03385\tNorth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Quezon City\t121.0509\t14.6488\tPhilippines"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Quito\t-78.52495\t-0.22985\tEcuador"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Rabat\t-6.83255\t34.01325\tMorocco"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Rawalpindi\t73.0479\t33.59733\tPakistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Recife\t-34.88111\t-8.05389\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Reykjavik\t-21.89541\t64.13548\tIceland"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Riga\t24.10589\t56.946\tLatvia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Rio de Janeiro\t-43.18223\t-22.90642\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Riyadh\t46.72185\t24.68773\tSaudi Arabia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Road Town\t-64.62079\t18.42693\tBritish Virgin Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Rome\t12.51133\t41.89193\tItaly"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Roseau\t-61.38808\t15.30174\tDominica"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint George's\t-61.75226\t12.05288\tGrenada"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint Helier\t-2.10491\t49.18804\tJersey"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint John's\t-61.84329\t17.12096\tAntigua and Barbuda"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint Peter Port\t-2.53527\t49.45981\tGuernsey"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint Petersburg\t30.31413\t59.93863\tRussia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint-Denis\t55.4504\t-20.88231\tReunion"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saint-Pierre\t-56.1773\t46.77914\tReunion"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Saipan\t145.7545\t15.21233\tNorthern Mariana Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Salvador\t-38.51083\t-12.97111\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Antonio\t-98.49363\t29.42412\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Diego\t-117.16472\t32.71571\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Francisco\t-122.41942\t37.77493\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Jose\t-84.08333\t9.93333\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Juan\t-66.10572\t18.46633\tArgentina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Marino\t12.44639\t43.93667\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "San Salvador\t-89.18718\t13.68935\tEl Salvador"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sanaa\t44.20667\t15.35472\tYemen"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Santa Cruz de la Sierra\t-63.18117\t-17.78629\tBolivia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Santiago\t-70.64827\t-33.45694\tChile"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Santo Domingo\t-69.89232\t18.47186\tDominican Republic"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sao Paulo\t-46.63611\t-23.5475\tBrazil"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sao Tome\t6.72732\t0.33654\tSao Tome and Principe"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sapporo\t141.35\t43.06667\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sarajevo\t18.35644\t43.84864\tBosnia and Herzegovina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Seattle\t-122.33207\t47.60621\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Semarang\t110.42083\t-6.99306\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Seoul\t126.9784\t37.566\tSouth Korea"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Shanghai\t121.45806\t31.22222\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sharjah\t55.41206\t25.33737\tUnited Arab Emirates"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Shenzhen\t114.0683\t22.54554\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Singapore\t103.85007\t1.28967\tSingapore"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Skopje\t21.43141\t41.99646\tNorth Macedonia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sofia\t23.32415\t42.69751\tBulgaria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "South Tangerang\t106.71789\t-6.28862\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Soweto\t27.85849\t-26.26781\tSouth Africa"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Stockholm\t18.06871\t59.32938\tSweden"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sucre\t-65.26274\t-19.03332\tBolivia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Surabaya\t112.75083\t-7.24917\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Surat\t72.83023\t21.19594\tIndia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Suva\t178.44149\t-18.14161\tFiji"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Sydney\t151.20732\t-33.86785\tAustralia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tabriz\t46.2919\t38.08\tIran"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Taipei\t121.53185\t25.04776\tTaiwan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tallinn\t24.75353\t59.43696\tEstonia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tangerang\t106.63\t-6.17806\tIndonesia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tarawa\t172.97696\t1.3278\tKiribati"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tashkent\t69.21627\t41.26465\tUzbekistan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tbilisi\t44.83368\t41.69411\tGeorgia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tegucigalpa\t-87.20681\t14.0818\tHonduras"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tehran\t51.42151\t35.69439\tIran"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tel Aviv\t34.78057\t32.08088\tIsrael"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Thimphu\t89.64191\t27.46609\tBhutan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tianjin\t117.17667\t39.14222\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tijuana\t-117.00371\t32.5027\tMexico"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tirana\t19.81889\t41.3275\tAlbania"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tokyo\t139.69171\t35.6895\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Toronto\t-79.4163\t43.70011\tCanada"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Torshavn\t-6.77164\t62.00973\tFaroe Islands"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tripoli\t13.18733\t32.88743\tLibya"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Tunis\t10.16579\t36.81897\tTunisia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Ulan Bator\t106.88324\t47.90771\tMongolia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Vaduz\t9.52154\t47.14151\tLiechtenstein"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Valencia\t-68.00765\t10.16202\tVenezuela"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Valletta\t14.5148\t35.89968\tMalta"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Vancouver\t-123.11934\t49.24966\tCanada"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Victoria\t55.45501\t-4.62001\tCanada"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Vienna\t16.37208\t48.20849\tAustria"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Vientiane\t102.6\t17.96667\tLaos"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Vilnius\t25.2798\t54.68916\tLithuania"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Warsaw\t21.01178\t52.22977\tPoland"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Washington\t-77.03637\t38.89511\tUnited States"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Wellington\t174.77557\t-41.28664\tNew Zealand"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Willemstad\t-68.93354\t12.1084\tCuracao"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Windhoek\t17.08323\t-22.55941\tNamibia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Wuhan\t114.26667\t30.58333\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Xi'an\t108.92861\t34.25833\tChina"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Yamoussoukro\t-5.27674\t6.82055\tIvory Coast"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Yangon\t96.15611\t16.80528\tMyanmar"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Yaounde\t11.51667\t3.86667\tCameroon"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Yekaterinburg\t60.6122\t56.8519\tRussia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Yerevan\t44.51361\t40.18111\tArmenia"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Yokohama\t139.65\t35.43333\tJapan"
+ },
+ {
+  "name\tlon\tlat\tcountry": "Zagreb\t15.97798\t45.81444\tCroatia"
+ }
+]
+}

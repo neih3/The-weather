@@ -1,0 +1,9 @@
+.current_style {
+  font-family: "Roboto Condensed", sans-serif;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 600;
+}
+
+.color-text {
+  color: rgba(255, 255, 255, 0.7);
+}
