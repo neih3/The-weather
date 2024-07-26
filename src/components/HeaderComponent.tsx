@@ -26,9 +26,11 @@ const HeaderComponent = () => {
       <h3 className="font-semibold sm:text-xs text-[10px] text-text_color-header">
         {currentTime}
       </h3>
-      <div className="sm:text-2xl text-xl">
-        <FaGithub />
-      </div>
+      <a href="">
+        <div className="sm:text-2xl text-xl">
+          <FaGithub />
+        </div>
+      </a>
     </nav>
   );
 };
