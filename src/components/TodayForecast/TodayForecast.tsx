@@ -8,7 +8,7 @@ const TodayForecast = memo(({ data, currentDate }: any) => {
   return (
     <div className="flex flex-col w-full">
       <Title text={`TODAY'S FORECAST`} />
-      <div className="grid grid-cols-4 gap-4 justify-center items-center">
+      <div className="lg:flex lg:justify-center grid grid-cols-4 gap-4">
         {data &&
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           data.map((item: any) => {
@@ -19,7 +19,7 @@ const TodayForecast = memo(({ data, currentDate }: any) => {
             if (currentDate < dtDate) {
               return (
                 <React.Fragment key={item?.dt}>
-                  <div className=" text-center bg-custom py-2 rounded mr-1.5 flex flex-col items-center">
+                  <div className=" text-center bg-custom py-2 rounded mr-1.5 flex flex-col items-center  lg:basis-1/4">
                     <h4 className="text-[14px] color-text">
                       {item?.dt_txt?.slice(11, 16)}
                     </h4>

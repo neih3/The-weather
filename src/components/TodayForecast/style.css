@@ -3,3 +3,16 @@
   box-shadow: rgba(0, 0, 0, 0.05) 0px 10px 15px -3px,
     rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
+.flex-custom {
+  box-sizing: border-box;
+  flex-flow: wrap;
+  margin: -4px 0px 0px -4px;
+  flex-basis: calc(100% + 4px);
+  -webkit-box-flex: 0;
+  flex-grow: 0;
+  max-width: calc(100% + 4px);
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: fit-content;
+}
