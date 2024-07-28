@@ -1,6 +1,6 @@
 ## Đây là trang web của tôi
 
-`https://weatherneih.vercel.app/`
+https://weatherneih.vercel.app/
 
 ## Tải xuống dự án
 
@@ -12,7 +12,7 @@
 
 ## Khởi tạo dự án
 
-`npm start`
+`npm start` \
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -21,6 +21,6 @@ You will also see any lint errors in the console.
 
 ## Tài liệu tham khảo
 
-https://www.freecodecamp.org/news/build-a-dynamic-dropdown-component/
-https://the-weather-forecasting.netlify.app/
+https://www.freecodecamp.org/news/build-a-dynamic-dropdown-component \
+https://the-weather-forecasting.netlify.app \
 _React query của anh Dũng_

@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": 659,
+      "wikiDataId": "Q1519",
+      "type": "CITY",
+      "city": "Abu Dhabi",
+      "name": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "region": "Emirate of Abu Dhabi",
+      "regionCode": "AZ",
+      "regionWdId": "Q187712",
+      "latitude": 24.451111111,
+      "longitude": 54.396944444,
+      "population": 1483000
+    },
+    {
+      "id": 3453268,
+      "wikiDataId": "Q1486",
+      "type": "CITY",
+      "city": "Buenos Aires",
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "region": "Buenos Aires Province",
+      "regionCode": "B",
+      "regionWdId": "Q44754",
+      "latitude": -34.599722222,
+      "longitude": -58.381944444,
+      "population": 3120612
+    },
+    {
+      "id": 4299,
+      "wikiDataId": "Q5112",
+      "type": "CITY",
+      "city": "Adelaide",
+      "name": "Adelaide",
+      "country": "Australia",
+      "countryCode": "AU",
+      "region": "South Australia",
+      "regionCode": "SA",
+      "regionWdId": "Q35715",
+      "latitude": -34.9275,
+      "longitude": 138.6,
+      "population": 1387290
+    },
+    {
+      "id": 3186204,
+      "wikiDataId": "Q90895",
+      "type": "ADM2",
+      "city": "Arrondissement of Antwerp",
+      "name": "Arrondissement of Antwerp",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "region": "Flemish Region",
+      "regionCode": "VLG",
+      "regionWdId": "Q9337",
+      "latitude": 51.25,
+      "longitude": 4.5,
+      "population": 1085832
+    },
+    {
+      "id": 3189062,
+      "wikiDataId": "Q90870",
+      "type": "ADM2",
+      "city": "Arrondissement of Brussels-Capital",
+      "name": "Arrondissement of Brussels-Capital",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "region": "Brussels-Capital Region",
+      "regionCode": "BRU",
+      "regionWdId": "Q240",
+      "latitude": 50.85,
+      "longitude": 4.35,
+      "population": 1219970
+    }
+  ],
+  "links": [
+    {
+      "rel": "first",
+      "href": "/v1/geo/cities?offset=0&limit=5&minPopulation=1000000&namePrefix=a"
+    },
+    {
+      "rel": "next",
+      "href": "/v1/geo/cities?offset=5&limit=5&minPopulation=1000000&namePrefix=a"
+    },
+    {
+      "rel": "last",
+      "href": "/v1/geo/cities?offset=135&limit=5&minPopulation=1000000&namePrefix=a"
+    }
+  ],
+  "metadata": {
+    "currentOffset": 0,
+    "totalCount": 137
+  }
+}

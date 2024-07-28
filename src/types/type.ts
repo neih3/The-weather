@@ -24,6 +24,7 @@ interface DropbarProps {
   setValueInput: (value: string) => void;
   valueInput: string;
   typing: boolean;
+  setPlaceholder: (value: string) => void;
 }
 
 export {

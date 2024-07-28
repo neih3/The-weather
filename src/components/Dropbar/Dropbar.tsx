@@ -8,13 +8,14 @@ const Dropbar = ({
   setValueInput,
   valueInput,
   typing,
+  setPlaceholder,
 }: DropbarProps) => {
+  console.log(data.metadata.totalCount);
   let totalCount = 0;
   if (data) {
     totalCount = data.metadata.totalCount;
   }
-
-  if (valueInput === "") {
+  if (valueInput === "" && !data) {
     return null;
   } else if (valueInput) {
     if (typing) {
@@ -29,6 +30,7 @@ const Dropbar = ({
       );
     }
   }
+
   return (
     <ContainerDropBar>
       {totalCount > 0 ? (
@@ -39,6 +41,7 @@ const Dropbar = ({
               handleClick(item.city);
               setOpenDropBar(false);
               setValueInput(`${item.city}, ${item.countryCode}`);
+              setPlaceholder(`${item.city}, ${item.countryCode}`);
             }}
             className="py-2 text-left pl-4 hover:bg-sky-200 cursor-pointer"
             key={item.id}
@@ -57,7 +60,7 @@ const Dropbar = ({
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const ContainerDropBar = ({ children }: any) => (
-  <div className="container relative w-full z-50">
+  <div className="container relative w-full z-1000">
     <ul className="w-full border bg-white mt-2 rounded text-black absolute">
       {children}
     </ul>

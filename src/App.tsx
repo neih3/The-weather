@@ -70,7 +70,7 @@ const App: React.FC = React.memo(function App() {
     : [];
   // console.log(data5Day);
   return (
-    <div className="App lg:container rounded-md lg:px-4 lg:pt-4 md:px-4 md:pt-">
+    <div className="App lg:container rounded-md lg:px-4 lg:pt-4 md:px-4 ">
       <HeaderComponent />
       <InputComponent handleClick={handleClick} />
 
