@@ -64,7 +64,7 @@ const InputComponent = ({ handleClick }: any) => {
         </span>
       </div>
       {openDropBar && (
-        <React.Suspense fallback={<div>loading...</div>}>
+        <React.Suspense>
           <Dropbar
             handleClick={handleClick}
             setOpenDropBar={setOpenDropBar}

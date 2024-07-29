@@ -75,7 +75,7 @@ const App: React.FC = React.memo(function App() {
       <InputComponent handleClick={handleClick} />
 
       {!dataMemoized || !results5Day.data ? (
-        <div>Loading...</div>
+        <span>Loading...</span>
       ) : (
         <div className="App_Container mt-12 pb-6">
           <div className="grid lg:grid-cols-2 sm:grid-cols-1 gap-10">
