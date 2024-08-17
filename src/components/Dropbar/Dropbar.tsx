@@ -10,10 +10,10 @@ const Dropbar = ({
   typing,
   setPlaceholder,
 }: DropbarProps) => {
-  console.log(data.metadata.totalCount);
+  console.log(data?.metadata?.totalCount);
   let totalCount = 0;
   if (data) {
-    totalCount = data.metadata.totalCount;
+    totalCount = data.metadata?.totalCount;
   }
   if (valueInput === "" && !data) {
     return null;

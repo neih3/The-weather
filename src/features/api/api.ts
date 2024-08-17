@@ -49,7 +49,7 @@ const getCity = async (country: string): Promise<any> => {
 const getNameCity = async (value: string): Promise<any> => {
   try {
     const res: AxiosResponse = await geoDBAxios.get("", {
-      params: { minPopulation: 1000000, namePrefix: value },
+      params: { minPopulation: 0, namePrefix: value },
     });
     return res.data;
   } catch (error) {
